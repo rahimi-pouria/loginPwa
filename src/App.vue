@@ -7,7 +7,7 @@ import Login from "./components/Login.vue";
 </template>
 
 <style scoped>
-/* style */
+/* style page */
 .logo {
   height: 6em;
   padding: 1.5em;
