@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0 auto;
+  width: 50% !important;
+}
+button.v-btn.v-btn--block.v-btn--elevated.v-theme--light.v-btn--density-default.v-btn--size-default.v-btn--variant-elevated.mt-2 {
+  color: var(--Others-White, #FFF);
+  text-align: center;
+  text-shadow: 4px 8px 24px rgba(150, 16, 255, 0.25);
+  font-family: Urbanist;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+  background: #3062c8;
+  border-radius: 50px;
+}
+.v-field.v-field--center-affix.v-field--variant-filled.v-theme--light.v-locale--is-ltr {
+  color: var(--Greyscale-500, #9E9E9E);
+  font-family: Urbanist;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+  border-radius: 50px;
+  border-bottom: none !important;
+}
