@@ -1,5 +1,6 @@
 <template>
   <div class="d-flex w-100">
+    <!-- login page -->
     <v-container class="bg-white">
       <v-row>
         <v-col cols="12" class="d-flex"> هدر </v-col>
